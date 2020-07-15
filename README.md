@@ -15,7 +15,7 @@ None
 ## Usage
 
 ```
-uses: LinearTapeFileSystem/Ubuntu2004-Build@v0.1
+uses: LinearTapeFileSystem/Ubuntu2004-Build@v1.0
 with:
   destination: '/tmp/ltfs'
 ```
